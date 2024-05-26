@@ -1,5 +1,6 @@
 [![Bandit](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml)
 [![CodeQL](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/codeql.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/jekyll-gh-pages.yml)
 
 # pi-ai-msft
 
