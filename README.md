@@ -1,3 +1,5 @@
+[![Bandit](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml)
+
 # pi-ai-msft
 
 A Python-based AI platform for Pi Network using Azure Machine Learning for model training and Azure Functions for API services.
