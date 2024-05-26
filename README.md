@@ -37,3 +37,17 @@ The pi-ai-msft project has the following directory structure:
 - azure_functions/: Azure Functions scripts for API services.
 - deploy.py: Script for deploying the trained model as a web service.
 - requirements.txt: List of required dependencies.
+
+# Contributing
+
+We welcome contributions to the pi-ai-msft project. To contribute, follow these steps:
+
+- Fork the repository.
+- Create a new branch for your changes.
+- Make your changes and commit them.
+- Push your changes to your forked repository.
+- Create a pull request.
+
+# License
+
+The pi-ai-msft project is licensed under the MIT License.
