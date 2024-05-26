@@ -1,4 +1,5 @@
 [![Bandit](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/bandit.yml)
+[![CodeQL](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/pi-ai-msft/actions/workflows/codeql.yml)
 
 # pi-ai-msft
 
